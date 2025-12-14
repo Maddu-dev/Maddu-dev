@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Maddu-dev/Maddu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Skills
 
-Here are some ideas to get you started:
+### Cloud & AWS
+EKS, ECS, EC2, VPC, IAM, S3, RDS, MSK (Kafka), ElastiCache (Redis OSS), EFS, KMS, ALB, WAF
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Infrastructure as Code
+Terraform (modules, remote state, multi-env, multi-account)
+
+### Containers & Orchestration
+Docker, Kubernetes (EKS), Helm
+
+### CI/CD & GitOps
+Jenkins, GitHub Actions, ArgoCD
+
+### Observability & SRE
+Prometheus, Grafana, ELK / EFK, Loki, Tempo
+
+### Configuration Management
+Ansible
