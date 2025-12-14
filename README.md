@@ -45,5 +45,4 @@
 ### 🧑‍💻 Scripting & Automation
 - 🐚 **Bash / Shell scripting**
 - 🐍 **Python** (automation, AWS SDK, tooling)
-### Configuration Management
-Ansible
+
